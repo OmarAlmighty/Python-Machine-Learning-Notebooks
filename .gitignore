@@ -4,3 +4,4 @@ Adaline/__pycache__/AdalineGD.cpython-38.pyc
 Adaline/__pycache__/AdalineSGD.cpython-38.pyc
 Perceptron/.ipynb_checkpoints/Perceptron__on_Iris-checkpoint.ipynb
 Perceptron/__pycache__/Perceptron.cpython-38.pyc
+*.pyc
