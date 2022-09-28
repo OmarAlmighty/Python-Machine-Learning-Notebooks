@@ -5,3 +5,24 @@ Adaline/__pycache__/AdalineSGD.cpython-38.pyc
 Perceptron/.ipynb_checkpoints/Perceptron__on_Iris-checkpoint.ipynb
 Perceptron/__pycache__/Perceptron.cpython-38.pyc
 *.pyc
+CH 12 - NN with PyTorch/CH 12 - NN with PyTorch.rar
+CH 12 - NN with PyTorch/iris_classifier.pt
+CH 12 - NN with PyTorch/iris_classifier_state.pt
+CH 13 - The Mechanics of PyTorch/lightning_logs/version_0/events.out.tfevents.1664229867.Promar.5412.0
+CH 13 - The Mechanics of PyTorch/lightning_logs/version_0/hparams.yaml
+CH 13 - The Mechanics of PyTorch/lightning_logs/version_1/checkpoints/epoch=14-step=12900.ckpt
+CH 13 - The Mechanics of PyTorch/lightning_logs/version_1/events.out.tfevents.1664230223.Promar.5412.1
+CH 13 - The Mechanics of PyTorch/lightning_logs/version_1/events.out.tfevents.1664230380.Promar.5412.2
+CH 13 - The Mechanics of PyTorch/lightning_logs/version_1/hparams.yaml
+CH 13 - The Mechanics of PyTorch/lightning_logs/version_2/checkpoints/epoch=8-step=7740.ckpt
+CH 13 - The Mechanics of PyTorch/lightning_logs/version_2/events.out.tfevents.1664231492.Promar.2872.0
+CH 13 - The Mechanics of PyTorch/lightning_logs/version_2/hparams.yaml
+CH 13 - The Mechanics of PyTorch/MNIST.rar
+CH 13 - The Mechanics of PyTorch/MNIST/raw/t10k-images-idx3-ubyte
+CH 13 - The Mechanics of PyTorch/MNIST/raw/t10k-images-idx3-ubyte.gz
+CH 13 - The Mechanics of PyTorch/MNIST/raw/t10k-labels-idx1-ubyte
+CH 13 - The Mechanics of PyTorch/MNIST/raw/t10k-labels-idx1-ubyte.gz
+CH 13 - The Mechanics of PyTorch/MNIST/raw/train-images-idx3-ubyte
+CH 13 - The Mechanics of PyTorch/MNIST/raw/train-images-idx3-ubyte.gz
+CH 13 - The Mechanics of PyTorch/MNIST/raw/train-labels-idx1-ubyte
+CH 13 - The Mechanics of PyTorch/MNIST/raw/train-labels-idx1-ubyte.gz
