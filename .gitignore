@@ -27,3 +27,12 @@ CH 13 - The Mechanics of PyTorch/MNIST/raw/train-images-idx3-ubyte.gz
 CH 13 - The Mechanics of PyTorch/MNIST/raw/train-labels-idx1-ubyte
 CH 13 - The Mechanics of PyTorch/MNIST/raw/train-labels-idx1-ubyte.gz
 .vscode/settings.json
+CH 14 - Deep Convolutional Neural Network/celeba.zip
+*.DS_Store
+CH 14 - Deep Convolutional Neural Network/__MACOSX/celeba/._identity_CelebA.txt
+CH 14 - Deep Convolutional Neural Network/__MACOSX/celeba/._img_align_celeba.zip
+CH 14 - Deep Convolutional Neural Network/__MACOSX/celeba/._list_attr_celeba.txt
+CH 14 - Deep Convolutional Neural Network/__MACOSX/celeba/._list_bbox_celeba.txt
+CH 14 - Deep Convolutional Neural Network/__MACOSX/celeba/._list_eval_partition.txt
+CH 14 - Deep Convolutional Neural Network/__MACOSX/celeba/._list_landmarks_align_celeba.txt
+CH 14 - Deep Convolutional Neural Network/__MACOSX/celeba/._list_landmarks_celeba.txt
